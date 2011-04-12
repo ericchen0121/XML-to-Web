@@ -1,0 +1,5 @@
+This is Project 3: XML for All Occassions in the Beginning Python (from Novice to Professional) book. 
+
+Basically, it takes SportsPortal.xml, which defines a website with a directory structure, and it creates those files and folders as defined in the xml.
+
+

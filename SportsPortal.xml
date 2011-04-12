@@ -1,0 +1,43 @@
+<website>
+    <page name="index" title="Home Page">
+        <h1>Welcome to Eric's Sports Page</h1>
+
+        <p>Hi, there. My name is Mr. Gumby, and this is my home page. Here are some of my interests:</p>
+
+        <ul>
+            <li><a href="teams/nfl_ravens.html">Baltimore Ravens</a></li>
+            <li><a href="teams/mlb_orioles.html">Baltimore Orioles</a></li>
+            <li><a href="teams/mlb_giants.html">San Francisco Giants</a></li>
+        </ul>
+    </page>
+    <directory name="teams">
+        <page name="nfl_ravens" title="Baltimore Ravens">
+            <h1>NFL Ravens Touchdown Center</h1>
+
+            <p></p>
+            <ul>
+                <li><a href = "http://www.baltimoreravens.com">BaltimoreRavens.Com</a></li>
+                <li><a href = "http://www.baltimoreravens.com/News/News.aspx">BaltimoreRavens.Com News</a></li>
+                <li><a href = "http://www.nfl.com">NFL.com</a></li>
+                <li><a href = "http://www.nationalfootballpost.com/">NationalFootballPost.com</a></li>
+            </ul>          
+        </page>
+        <page name="mlb_orioles" title="Baltimore Orioles">
+            <h1>MLB Home Run Trot</h1>
+
+            <p></p>
+            <ul>
+                <li><a href = "http://www.baltimoreorioles.com">BaltimoreRavens.Com</a></li>
+                <li><a href = "http://www.mlbfancave.com">MLB Fan Cave</a></li>
+            </ul>
+        </page>
+        <page name="mlb_giants" title="Eating">
+            <h1>Fear the Beard Sinking Fastball</h1>
+
+            <p></p>
+            <ul>
+                <li><a href = "http://www.sfgiants.com">SFGiants.Com</a></li>
+            </ul>
+        </page>
+    </directory>
+</website>
